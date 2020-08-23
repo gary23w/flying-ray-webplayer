@@ -1,0 +1,17 @@
+{
+"companyName": "marketdude",
+"productName": "Flying Ray",
+"productVersion": "0.2",
+"dataUrl": "WebPlayer.data.unityweb",
+"wasmCodeUrl": "WebPlayer.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebPlayer.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebPlayer.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
